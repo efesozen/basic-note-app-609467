@@ -1,0 +1,7 @@
+// AUTO-GENERATED MODULES - Add these to app.module.ts imports array
+import { NotesModule } from './modules/notes/notes.module';
+import { NotesharesModule } from './modules/noteshares/noteshares.module';
+
+// Add to @Module imports array:
+// NotesModule,
+// NotesharesModule
